@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dhruv Gahlot;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="[https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dhruv Gahlot;This+is..;..my+Github..;](https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=%20%20%20Hey..+I%27m+Dhruv%20Gahlot;This+is..;..my+Github..;)" alt="Typing SVG"/>
     </h1>
 </div>
 - 👀 I’m interested in Learnig new Languages and solve new problems
